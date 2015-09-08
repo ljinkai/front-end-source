@@ -1,4 +1,4 @@
-[UI](#UI) [Demo](#Demo)
+[UI](#ui) [Demo](#demo)
 
 # 工具
 
