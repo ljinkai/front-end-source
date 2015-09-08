@@ -2,9 +2,15 @@
 
 # 工具
 
-## UI
+## 手册
 
-## JS
+## 图标
+
+* [typetodesign](http://typetodesign.com/) <small>字符生成图标</small>
+* [makeappicon](http://makeappicon.com/) <small>制作生成各种尺寸icon</small>
+* [droidicon](https://github.com/theDazzler/droidicon) <small>icon素材</small>
+* [flattyshadow](http://flattyshadow.com/) <small>阴影图标制作</small>
+* [uiparade](http://livetools.uiparade.com/index.html) <small>在线设计图标</small>
 
 ## 调试
 
