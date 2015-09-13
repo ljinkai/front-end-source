@@ -1,26 +1,32 @@
 * [工具]()
   *  [手册](#手册)
   *  [图标](#图标)
-  *  [UI](#ui)
+  *  [UI-tool](#ui-tool)
   *  [开发](#开发)
   *  [其它](#其它)
 * [库]()
-  *  [UI](#ui)
+  *  [UI-lib](#ui-lib)
   *  [JS](#js)
   *  [动画](#动画)
   *  [Node.js](#nodejs)
 * [学习]()
   *  [视频](#视频)
-  *  [ui](#ui)
-* [博客]()
-  *  [ui](#ui)
+  *  [读书](#读书)
+* [博客](#博客)
 * [综合站]()
-  *  [ui](#ui)
+  *  [技术](#技术)
+  *  [社区](#社区)
+  *  [UI-site](#ui-site)
 * [H5]()
-  *  [ui](#ui)
+  *  [知识](#知识)
+  *  [demo](#demo)
+  *  [微信](#微信)
+  *  [游戏](#游戏)
+* [常见问题]()
 * [发现]()
-  * [新闻](#ui)
-  * [好玩](#ui)
+  * [新东西](#新东西)
+  * [新闻](#新闻)
+  * [好玩](#好玩)
 
 
 # 工具
@@ -41,7 +47,7 @@
 * [uiparade](http://livetools.uiparade.com/index.html) <small>在线设计图标</small>
 * [realfavicongenerator](http://realfavicongenerator.net/) <small>favicon生成</small>
 
-## UI
+## UI-tool
 * [cloudsightapi](http://cloudsightapi.com/) <small>图片识别</small>
 * [jackiebalzer](http://jackiebalzer.com/color) <small>调色</small>
 * [paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) <small>配色</small>
@@ -71,7 +77,7 @@
 
 # 库
 
-## UI
+## UI-lib
 * [materializecss](http://materializecss.com/) <small>material design lib</small>
 
 ## JS
@@ -129,7 +135,7 @@
 * [segmentfault](http://segmentfault.com/)
 * [js-css](http://www.js-css.cn/)
 
-## UI
+## UI-site
 * [ui.cn](http://www.ui.cn/)
 * [设计交互资源](http://www.58img.com/)
 * [designmodo(英)](http://designmodo.com/)
