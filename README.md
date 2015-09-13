@@ -14,11 +14,11 @@
   *  [视频](#视频)
   *  [读书](#读书)
 * [博客](#博客)
-* [综合站](#综合站)
+* [综合](#综合)
   *  [技术](#技术)
   *  [社区](#社区)
   *  [UI-site](#ui-site)
-* [H5](#H5)
+* [H5](#h5)
   *  [知识](#知识)
   *  [demo](#demo)
   *  [微信](#微信)
@@ -177,7 +177,7 @@
 * [网页速度优化建议](https://developers.google.com/speed/pagespeed/insights/)
 
 # 发现
-##新东西
+## 新东西
 * [demo8](http://www.demo8.com/) <samll>发现新APP</small>
 * [IT公论](https://ipn.li/itgonglun/) <samll>一些评论</small>
 * [mindstore](http://mindstore.io/) <samll>产品与想法</small>
