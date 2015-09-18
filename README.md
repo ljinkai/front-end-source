@@ -130,6 +130,7 @@
 * [speckyboy(英)](http://speckyboy.com/)
 * [tympanus(英)](http://tympanus.net/codrops/)
 * [smashingmagazine(英)](ttp://www.smashingmagazine.com/)
+* [front-end-collect](https://github.com/foru17/front-end-collect)
 
 
 ## 社区
