@@ -56,6 +56,8 @@
 * [cssload](http://cssload.net/en/) <small>loading动画制作</small>
 * [uehtml](http://www.uehtml.com/post/4293/) <small>loading动画</small>
 * [cssanimate](http://cssanimate.com/) <small>在线动画制作</small>
+* [tinytool](https://tinypng.com/) <small>压缩PNG & JPEG图片</small>
+* [IcoMoon App](https://icomoon.io) <small>图片合成字体在线管理</small>
 
 ## 开发
 * [caniuse](http://caniuse.com/) <small>h5属性查询</small>
